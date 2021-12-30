@@ -19,7 +19,7 @@
 ## Background & Purpose
 Fractal Dimension is a measure of how smooth or rough a curve is, while taking into account the space filling properties as well. This analysis can be applied to data of dimensions greater than one. 
 It's commonly used within material's science, geographical, and financial contexts. There are many techniques available for calculating this measure, each sensitive to the properties of the curves themselves. 
-This project aims to assess the performance of popular methods when tested on 2-d test curves with the following properties: smoothness, roughness, and sample size.
+This project aims to assess the performance of popular methods when tested on 2-d test curves with the following properties: smoothness, roughness, and varied sample size.
  
 ## Data
 ![test curves](https://github.com/ninavergara605/dimension_analysis/blob/13db2adb864f48822341ad61d94c55545d40aeb8/images/test_curves.png)
