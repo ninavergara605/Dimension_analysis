@@ -48,7 +48,7 @@ on lower dimensional curves with varying space filling properties. This probably
 ![1d-distance transform](https://github.com/ninavergara605/dimension_analysis/blob/13db2adb864f48822341ad61d94c55545d40aeb8/images/1d_distance_transform.png)
 
 ## Results
-need to add axis labels and make figures the same size smh pleb move
+
 ### Box Counting
 ![box counting result](https://github.com/ninavergara605/dimension_analysis/blob/c7b9e5cf784385f2fff854878a77c4bbbc4c8f8b/images/box_counting_result.png)
 
