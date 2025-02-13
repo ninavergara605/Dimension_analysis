@@ -57,8 +57,6 @@ on lower dimensional curves with varying space filling properties. This probably
 
 ### Horizontal Segmentation Method
 ![HSM result](https://github.com/ninavergara605/dimension_analysis/blob/c7b9e5cf784385f2fff854878a77c4bbbc4c8f8b/images/hsm_performance.png)
-
-## Conclusions
     
 
 ## Repositroy Structure
